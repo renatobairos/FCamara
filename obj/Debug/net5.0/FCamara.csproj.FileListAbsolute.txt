@@ -1,0 +1,16 @@
+C:\Users\PontoBusiness\Desktop\FCamara\bin\Debug\net5.0\FCamara.exe
+C:\Users\PontoBusiness\Desktop\FCamara\bin\Debug\net5.0\FCamara.deps.json
+C:\Users\PontoBusiness\Desktop\FCamara\bin\Debug\net5.0\FCamara.runtimeconfig.json
+C:\Users\PontoBusiness\Desktop\FCamara\bin\Debug\net5.0\FCamara.runtimeconfig.dev.json
+C:\Users\PontoBusiness\Desktop\FCamara\bin\Debug\net5.0\FCamara.dll
+C:\Users\PontoBusiness\Desktop\FCamara\bin\Debug\net5.0\ref\FCamara.dll
+C:\Users\PontoBusiness\Desktop\FCamara\bin\Debug\net5.0\FCamara.pdb
+C:\Users\PontoBusiness\Desktop\FCamara\obj\Debug\net5.0\FCamara.csproj.AssemblyReference.cache
+C:\Users\PontoBusiness\Desktop\FCamara\obj\Debug\net5.0\FCamara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PontoBusiness\Desktop\FCamara\obj\Debug\net5.0\FCamara.AssemblyInfoInputs.cache
+C:\Users\PontoBusiness\Desktop\FCamara\obj\Debug\net5.0\FCamara.AssemblyInfo.cs
+C:\Users\PontoBusiness\Desktop\FCamara\obj\Debug\net5.0\FCamara.csproj.CoreCompileInputs.cache
+C:\Users\PontoBusiness\Desktop\FCamara\obj\Debug\net5.0\FCamara.dll
+C:\Users\PontoBusiness\Desktop\FCamara\obj\Debug\net5.0\ref\FCamara.dll
+C:\Users\PontoBusiness\Desktop\FCamara\obj\Debug\net5.0\FCamara.pdb
+C:\Users\PontoBusiness\Desktop\FCamara\obj\Debug\net5.0\FCamara.genruntimeconfig.cache
